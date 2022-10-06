@@ -25,14 +25,21 @@ namespace YugiApi.Controllers
         {
             Magias = archivos.Deserealizar("CartasMagia.json");
             MagicCard? cardexistente = Magias.FirstOrDefault(x => x.Nombre == nombre);
-            //Pokemon? pkmnduplicado = pokemones.ListaPokemones.FirstOrDefault(x => x.Nombre == pkmnupdate.Nombre);
             return cardexistente;
         }
 
         // POST api/<MagicCardController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public List<MagicCard> Post(MagicCard mc)
         {
+            Magias = archivos.Deserealizar("CartasMagia.json");
+            MagicCard? existe = Magias.FirstOrDefault(x => x.Nombre == mc.Nombre);
+            if (existe == null)
+            {
+                Magias.Add(mc);
+            }
+
+            return Magias;
         }
 
         // PUT api/<MagicCardController>/5
