@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace YugiohTCG.Modelos.Modelos.DB
+﻿namespace YugiApi.Models
 {
-    public partial class MagicCard
+    public class MagicCard
     {
         public int Id { get; set; }
         public string? Nombre { get; set; }
@@ -13,5 +10,6 @@ namespace YugiohTCG.Modelos.Modelos.DB
         public string? Duracion { get; set; }
         public string? Velocidad { get; set; }
         public string? Descripcion { get; set; }
+
     }
 }
