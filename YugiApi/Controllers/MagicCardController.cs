@@ -44,8 +44,18 @@ namespace YugiApi.Controllers
 
         // PUT api/<MagicCardController>/5
         [HttpPut("{nombre}")]
-        public void Put(int id, [FromBody] string value)
+        public List<MagicCard> Put(string nombre,MagicCard mcupdate)
         {
+            Magias = archivos.Deserealizar("CartasMagia.json");
+            MagicCard? mcexistente = Magias.FirstOrDefault(x => x.Nombre == nombre);
+            MagicCard? mcduplicado = Magias.FirstOrDefault(x => x.Nombre == mcupdate.Nombre);
+            if (mcexistente != null
+                && mcupdate == null)
+            {
+                Magias.Remove(mcexistente);
+                Magias.Add(mcupdate);
+            }
+            return Magias;
         }
 
         // DELETE api/<MagicCardController>/5
