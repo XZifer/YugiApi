@@ -9,18 +9,24 @@ namespace YugiApi.Controllers
     [ApiController]
     public class MagicCardController : ControllerBase
     {
+        Archivos archivos = new();
+        List<MagicCard> Magias = new();
         // GET: api/<MagicCardController>
         [HttpGet]
-        public IEnumerable<MagicCard> Get()
+        public List<MagicCard> Get()
         {
-            return new MagicCard[] mcs;
+            Magias = archivos.Deserealizar("CartasMagia.json");
+            return Magias;
         }
 
         // GET api/<MagicCardController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        [HttpGet("{nombre}")]
+        public MagicCard Get(string nombre)
         {
-            return "value";
+            Magias = archivos.Deserealizar("CartasMagia.json");
+            MagicCard? cardexistente = Magias.FirstOrDefault(x => x.Nombre == nombre);
+            //Pokemon? pkmnduplicado = pokemones.ListaPokemones.FirstOrDefault(x => x.Nombre == pkmnupdate.Nombre);
+            return cardexistente;
         }
 
         // POST api/<MagicCardController>
@@ -30,13 +36,13 @@ namespace YugiApi.Controllers
         }
 
         // PUT api/<MagicCardController>/5
-        [HttpPut("{id}")]
+        [HttpPut("{nombre}")]
         public void Put(int id, [FromBody] string value)
         {
         }
 
         // DELETE api/<MagicCardController>/5
-        [HttpDelete("{id}")]
+        [HttpDelete("{nombre}")]
         public void Delete(int id)
         {
         }

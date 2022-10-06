@@ -1,0 +1,1586 @@
+[
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Agujero Dimensional",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Retira del juego 1 monstruo de tu Campo hasta tu próxima Standby Phase. La carta todavia cuenta para el limite de 5 cartas en la Zona de Monstruo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Agujero Oscuro",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye todos los monstruos en el Campo."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Anillo del Magnetismo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo se puede equipar a un monstruo en tu Campo. El monstruo equipado con esta carta disminuye su ATK y DEF en 500 puntos. Todos los monstuos en el Campo de tu adversario deben atacar al monstruo equipado con esta carta si eligen atacar."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Arco y Flecha de Plateados",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Hada equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Armadura de Cañón Láser",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Insecto. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Arremetida Imprudente",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo boca arriba en el Campo: hasta el final de este turno, éste gana 700 ATK."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Ataque Dracónico *",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser equipada a un monstruo de Tipo Guerrero. El monstruo equipado se considera de Tipo Dragón y aumenta su ATK y su DEF en 500 puntos."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Barrera de Insectos",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Los monstruos de Tipo Insecto que controle tu adversario no pueden declarar ataques."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Bloquear Ataque",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo boca arriba en Posición de Ataque que controle tu adversario; cambia ese objetivo a Posición de Defensa boca arriba."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Bosque",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Insecto, Bestia, Planta y Guerrero-Bestia en el Campo ganan 200 ATK/DEF."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Cambio de Fidelidad",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo que controle tu adversario; toma el control de éste hasta la End Phase."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Caridad Grácil",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Roba 3 cartas, y después descarta 2 cartas."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Carta de Retorno Seguro",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cuando un monstruo es Invocado mediante una Invocación Especial desde tu Cementerio, puedes robar 1 carta."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Cartas Infinitas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "No hay límite al tamaño de la mano de cada jugador."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Chispa Reluciente",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de LUZ en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Chispas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Inflige 200 puntos de daño a los Life Points de tu adversario."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Colgante Negro",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 500 ATK. Cuando esta carta es mandada del Campo al Cementerio: inflige 500 puntos de daño a tu adversario."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Colmillos de Bestia",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Bestia equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Compartir el Dolor",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sacrifica 1 monstruo; haz que tu adversario Sacrifique 1 monstruo (esto no causa ningún efecto)."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Confiscación",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Paga 1000 Life Points. Mira la mano de tu adversario, selecciona 1 carta de entre ellas y descártala al Cementerio."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Convulsión de la Naturaleza",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mientras esta carta permanezca boca arriba en el Campo, ambos jugadores deben girar sus respectivos Decks boca arriba y continuar con el Duelo actual."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Corazón de Agua Clara",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si el ATK del monstruo equipado es 1300 o superior, destruye esta carta. El monstruo equipado con esta carta no puede ser destruido como resultado de una batalla o por el efecto de una carta que lo designe como objetivo. El daño de batalla se calcula normalmente."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Coro del Santuario",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta la DEF de todos los monstruos en Posición de Defensa en 500 puntos."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Corriente de Aire Ascendente",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de VIENTO en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Cristal Violeta",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "(Esta carta no se trata como una carta \"Cristal\").Sólo puedes equipar esta carta a un monstruo Zombi. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Cuerno de Luz",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta la DEF de un monstruo equipado con esta carta en 800 puntos. Cuando esta carta es mandada del Campo al Cementerio, si pagas 500 Life Points, esta carta vuelve a la parte superior de tu Deck."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Cuerno del Unicornio",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 700 ATK y DEF. Cuando esta carta es mandada del Campo al Cementerio: devuélvela a la parte superior del Deck."
+  },
+  {
+    "Icono": "De ritual",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Danza de Inicio",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta se usa para la Invocación por Ritual de \"Exhibición de Espada\". También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean 6 o más."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "De-Fusión",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Monstruo de Fusión en el Campo; devuelve ese objetivo al Deck Extra y después, si todos los Materiales de Fusión que fueron utilizados en su Invocación por Fusión están en tu Cementerio, puedes Invocar todos ellos de Modo Especial."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Derrumbamiento del Suelo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 2 Zonas de Carta de Monstruo en el Campo. Ningun jugador puede usar las zonas seleccionadas. No puedes seleccionar una zona ocupada por una Carta de Monstruo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Descanso Eterno",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye todos los monstruos equipados con Cartas de Equipo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Después de la Batalla",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser activada durante la Main Phase 1. Todos los monstruos en el Campos que hayan ejecutado cálculo de daño son destruidos durante el End Step del turno."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Destino Final",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Descarta 5 cartas de tu mano. Destruye todas las cartas en el Campo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Destrucción Aplastante",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si controlas un monstruo Dragón: selecciona 1 Mágica/Trampa en el Campo; destruye ese objetivo y, si lo haces, inflige 500 puntos de daño a su controlador."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Destrucción de la Carta",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada jugador descarta toda su mano y después roba la misma cantidad de cartas que descartó."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Destrucción Fundida",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de FUEGO en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Dian Keto, el Señora de la Curación",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta tus Life Points en 1000 puntos."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Dispositivo de Luz Reveladora",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Declara 1 Tipo de monstruo. Ningún monstruo del Tipo declarado puede declarar un ataque durante el turno en el que es Invocado mediante una Invocación Normal, Invocación de Volteo o Invocación Especial."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Dúo de Delincuentes",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Paga 1000 LP; tu adversario descarta 1 carta al azar, y si tiene otras cartas en su mano, descarta 1 carta más de su elección."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Egotista Elegante",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si \"Dama Arpía\" está en el Campo: Invoca de Modo Especial, desde tu mano o Deck, 1 \"Dama Arpía\" o \"Hermanas de la Dama Arpía\"."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Ekibyo Drakmord",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo equipado con esta carta no puede atacar. Destruye el monstruo equipado al final del 2do. turno del controlador del monstruo después de que esta carta fue activada. En ese momento, esta carta vuelve a la mano de su propietario."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Ataúd Risueño",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Descarta hasta 3 Cartas de Monstruo de tu mano al Cementerio."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Batir de Alas del Dragón Gigante",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Devuelve a la mano 1 monstruo de Tipo Dragón de Nivel 5 o mayor que controles y, si lo haces, destruye todas las Cartas Mágicas y de Trampa en el Campo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Centinela Enérgico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mira la mano de tu adversario. Selecciona 1 carta de entre ellas y devuélvela a su Deck. Luego tu adversario baraja su Deck."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Espía Inexperto",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona y mira 1 carta en la mano de tu adversario."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Guardián Fiable",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta la DEF de 1 monstruo boca arriba en 700 puntos hasta el final de este turno."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Guerrero Volviendo Con Vida",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo Guerrero en tu Cementerio; añade ese objetivo a tu mano."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Remedio Secreto del Trasgo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta tus Life Points en 600 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "El Secreto del Bandido",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser activada durante la Main Phase 1. Selecciona 1 monstruo boca arriba en el Campo. Cada vez que el monstruo seleccionado inflige daño de batalla a los Life Points de tu adversario durante este turno, tu adversario descarta 1 carta al azar."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Elección Dolorosa",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 5 cartas de tu Deck y muéstralas a tu adversario. Tu adversario selecciona 1 carta de entre ellas. Añade la carta seleccionada a tu mano y descarta las cartas restantes al Cementerio."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Electro-Látigo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Trueno equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Elevar el Calor Corporal",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Dinosaurio. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un turno",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Eliminación de Espíritu *",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cuando los monstruos en el Cementerio son retirados del juego, retira monstruos en tu lado del Campo del juego como sustitutos. Esta carta permanece activa hasta el final del turno en que es activada. Los sustitutos permanecen retirados del juego."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Energía en Cadena",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada jugador debe pagar 500 Life Points por carta para Invocar mediante una Invocación Normal, Invocación Especial, Colocar o activar cartas de sus manos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Energía Oscura",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Demonio equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Enredo Doble",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye 1 carta boca arriba en el Campo que tenga el efecto de negar el efecto de las Cartas de Trampa."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Entierro Prematuro",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Activa esta carta pagando 800 LP, y después selecciona 1 monstruo en tu Cementerio; Invoca ese objetivo de Modo Especial en Posición de Ataque y equípalo con esta carta. Cuando esta carta es destruida, destruye el monstruo equipado."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Escudo y Espada",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Hasta el final de este turno, intercambia el ATK y DEF originales de todos los monstruos boca arriba en el Campo en este momento."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espada de Fusión Hoja Murasame",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Guerrero. Éste gana 800 ATK. Mientras esté equipada a un monstruo, esta carta no puede ser destruida por efectos de cartas."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espada de la Destrucción Oscura",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo de OSCURIDAD. Éste gana 400 ATK y pierde 200 DEF."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espada del Asentamiento Profundo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 500 ATK/DEF. Si esta carta es mandada a tu Cementerio: ponla en la parte superior de tu Deck."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espada Legendaria",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Guerrero. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Tres turnos del adversario",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espadas de la Luz Reveladora",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Después de la activación de esta carta, ésta permanece en el Campo, pero debes destruirla durante la End Phase del 3er. turno de tu adversario. Cuando esta carta es activada: si tu adversario controla un monstruo boca abajo, voltea boca arriba todos los monstruos que controle. Mientras esta carta esté boca arriba en el Campo, los monstruos de tu adversario no pueden declarar un ataque."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espejo de Fengsheng *",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mira la mano de tu adversario. Selecciona y descarta 1 monstruo Spirit al Cementerio si hay cualquier monstruo Spirit en su mano."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espiritualismo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Devuelve a la mano 1 Carta Mágica/de Trampa que controle tu adversario. La activación y el efecto de esta carta no pueden ser negados."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Espíritu Vengativo del Cenagal",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Ningún monstruo en el Campo puede atacar en el mismo turno en el que es Invocado mediante una Invocación Normal, Invocación de Volteo o Invocación Especial."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Estamos Juntos",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 800 ATK/DEF por cada monstruo boca arriba que controles."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Estimu-Pack",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo equipado con esta carta aumenta su ATK en 700 puntos. Su ATK disminuye en 200 puntos en cada una de tus Standby Phases."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Excavación Milagrosa",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si al menos 5 de tus monstruos están desterrados: selecciona 3 de ellos; devuélvelos al Cementerio."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Exorcismo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Mágica boca arriba, o 1 Mágica/Trampa Colocada, en el Campo; destruye ese objetivo si es una Mágica. (Si el objetivo está Colocado, muéstralo)."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Fisura",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye el monstruo boca arriba con ATK más bajo que controle tu adversario (si hay más de uno, tú eliges cual)."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Fuego de Dragón",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si controlas un monstruo Dragón: activa 1 de estos efectos;●Inflige 800 puntos de daño a tu adversario.●Selecciona 1 monstruo con 800 DEF o menos; destruye ese objetivo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Fuego Tremendo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Inflige 1000 puntos de daño a los Life Points de tu adversario y 500 puntos de daño a tus Life Points."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Fábrica de Conversión de Máquinas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Máquina. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Goblin Insolente",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Roba 1 carta, y después tu adversario gana 1000 LP."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Granada de Humo del Ladrón",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cuando esta carta es destruida por el efecto de una carta mientras está equipada a un monstruo: mira la mano de tu adversario y descarta 1 carta de su mano."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Hacha del Desespero",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "(Esta carta se trata siempre como una carta \"Archidemonio\") El monstruo equipado gana 1000 ATK. Cuando esta carta es mandada del Campo al Cementerio: puedes Sacrificar 1 monstruo; pon esta carta en la parte superior del Deck."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Hinotama",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Inflige 500 puntos de daño a tu adversario."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Hoja de Rayos",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Guerrero. Éste gana 800 ATK. Todos los monstruos de AGUA en el Campo pierden 500 ATK."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Imitación de Insecto",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sacrifica 1 monstruo; Invoca de Modo Especial, desde tu Deck, 1 monstruo Insecto cuyo Nivel sea 1 más que el que el monstruo Sacrificado tenía en el Campo."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Impacto de Meteoro de Hada",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si el monstruo equipado ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Infección de Germenes",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El ATK de un monstruo que no sea del Tipo Máquina equipado con esta carta disminuye en 300 puntos en cada una de tus Standby Phases."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Inspección *",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Durante la Standby Phase de tu adversario, puedes mirar al azar 1 carta de la mano de tu adversario al coste de 500 Life Points."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Intercambio de Almas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo que controle tu adversario; este turno, si Sacrificas un monstruo, debe ser ese objetivo, como si tú lo controlaras. No puedes realizar tu Battle Phase en el turno en el que actives esta carta."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Intercambio de Criatura",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada jugador elige 1 monstruo que controle e intercambia el control de ese monstruo con el otro jugador. Por el resto de este turno, esos monstruos no pueden cambiar sus posiciones de batalla."
+  },
+  {
+    "Icono": "De ritual",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Juramento de Tortuga",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta se usa en la Invocación de Ritual de \"Tortuga Cangrejo\". También debes ofrecer monstruos cuyo Nivel total sea 8 o más de tu Campo o tu mano como Sacrificio."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Elegida",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Carta de Monstruo y 2 Cartas que no sean de Monstruo de tu mano. Tu adversario selecciona al azar 1 de las 3 cartas. Si es una Carta de Monstruo, es Invocada mediante una Invocación Especial y manda las 2 cartas restantes al Cementerio. Si no, manda todas las cartas al Cementerio."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Flauta de Convoca-Dragones",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Invoca de Modo Especial, desde tu mano, hasta 2 monstruos Dragón. \"Señor de D.\" debe estar en el Campo para activar y para resolver este efecto."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Magia de Títeres del Señor Oscuro",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo Demonio en tu Cementerio; destierra monstruos boca arriba que controles cuyos Niveles totales sean exactamente igual al Nivel de ese monstruo, y después Invócalo de Modo Especial."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Oscuridad se Acerca",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Descarta 2 cartas de tu mano. Selecciona 1 monstruo boca arriba y voltéalo boca abajo en la misma posición de batalla."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Puerta Oscura",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo 1 monstruo puede atacar durante cada Battle Phase."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "La Tumba Superficial",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada jugador selecciona 1 monstruo en su propio Cementerio; cada jugador Invoca el objetivo de Modo Especial desde su Cementerio en Posición de Defensa boca abajo."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Laberinto Mágico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a \"Muro Laberinto\". Puedes Sacrificar el monstruo equipado; Invoca de Modo Especial, desde tu Deck, \"Muro de Sombra\"."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Las Fuerzas A.",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos de Tipo Guerrero que controles ganan 200 ATK por cada monstruo de Tipo Guerrero o Lanzador de Conjuros que controles."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Liberación del Alma",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona hasta 5 cartas en cualquier Cementerio; destiérralas."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Libro de Artes Secretas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Lanzador de Conjuros equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Llama Final",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Inflige 600 puntos de daño a los Life Points de tu adversario."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Lluvia de Piedad",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta los Life Points de ambos jugadores en 1000 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Luna Mística",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo de Tipo Guerrero Bestia. Éste gana 300 ATK y DEF."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Láser de Ciclón",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Solamente \"Gradius\" puede ser equipado con esta carta. Aumenta el ATK de ese \"Gradius\" en 300 puntos. Cuando \"Gradius\" ataca con un ATK superior a la DEF de un monstruo en Posición de Defensa, inflige la diferencia a los Life Points de tu adversario como daño de batalla."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Maldición de Demonio",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cambia las posiciones de batalla de todos los monstruos en el Campo. Estas posiciones no pueden ser cambiadas durante este turno. Solo puedes activar esta carta durante tu Standby Phase."
+  },
+  {
+    "Icono": "De ritual",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Maldición de la Bestia Enmascarada",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta se usa para la Invocación por Ritual de \"La Bestia Enmascarada\". También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean 8 o más."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Medicina Roja",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta tus Life Points en 500 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Megamorfo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mientras tus LP sean menores que los de tu adversario, el ATK del monstruo equipado se convierte en el doble de su ATK original. Mientras tus LP sean mayores, el ATK del monstruo equipado se convierte en la mitad de su ATK original."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mensaje Espiritual &#34;A&#34;",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser puesta en el Campo por efecto de \"Tablero del Destino\"."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mensaje Espiritual &#34;I&#34;",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser puesta en el Campo por efecto de \"Tablero del Destino\"."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mensaje Espiritual &#34;L&#34;",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser puesta en el Campo por efecto de \"Tablero del Destino\"."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mensaje Espiritual &#34;N&#34;",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser puesta en el Campo por efecto de \"Tablero del Destino\"."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mensajero de la Paz",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Los monstruos con 1500 ATK o más no pueden declarar un ataque. Una vez por turno durante tu Standby Phase, paga 100 LP o destruye esta carta."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Microbios Infames",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Planta equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Monstruo Renacido",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo en cualquier Cementerio; Invócalo de Modo Especial."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Montaña",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Dragón, Bestia Alada y Trueno en el Campo ganan 200 ATK/DEF."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Mundo Toon",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Activa esta carta pagando 1000 LP."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Muñeca Señuelo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona una carta Colocada en la Zona de Cartas Mágicas y de Trampa; muestra ese objetivo, fuerza su activación si es una Carta de Trampa, y después niega su efecto si el momento de activación es incorrecto y, si lo haces, destruye la carta. (Si no es una Carta de Trampa vuelve a ponerla boca abajo). Cuando esta carta se resuelve, barájala al Deck en vez de mandarla al Cementerio."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Máquina de Energía Espiritual",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mientras esta carta permanezca boca arriba en el Campo, todos los monstruos Spirit permanecen boca arriba en el Campo. Descarta 1 carta de tu mano durante cada una de tus End Phases. Si no descartas, destruye esta carta. Cuando esta carta es retirada del Campo, todos los monstruos Spirit boca arriba vuelven a las manos de sus propietarios."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Máquina de Reproducción de Gelatina",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Durante cada una de tus Standby Phases, Invoca mediante una Invocación Especial 1 \"Ficha de Gelatina\" (Tipo Aqua/AGUA/Nivel 1/ATK 500/DEF 500) a tu Campo en Posición de Ataque. Mientras esta carta permanezca boca arriba en el Campo, no puedes Invocar mediante una Invocación Normal, Invocación de Volteo o Invocación Especial ningún otro monstruo (excepto Fichas de Gelatina)."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Máscara de Brutalidad",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 1000 ATK y pierde 1000 DEF. Una vez por turno, durante tu Standby Phase, paga 1000 LP o destruye esta carta."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Máscara de Disipar",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Carta Mágica boca arriba en el Campo. El controlador de la Carta Mágica recibe 500 puntos de daño durante cada una de tus Standby Phases. Cuando la carta seleccionada es retirada del Campo, destruye esta carta."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Máscara de los Malditos",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado no puede atacar. Una vez por turno, durante tu Standby Phase: inflige 500 puntos de daño al controlador del monstruo equipado."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Noble de Crossout",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era un monstruo de Volteo, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con ese nombre de monstruo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Noble de Exterminio",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Mágica/Trampa boca abajo en el Campo; destruye ese objetivo y, si lo haces, destiérralo y después, si era una Trampa, cada jugador muestra su Deck Principal, y después destierra de éste todas las cartas con el nombre de esa carta."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Nuzzler Malévolo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 700 ATK. Cuando esta carta es mandada del Campo al Cementerio: puedes pagar 500 LP; pon esta carta en la parte superior de tu Deck."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Ofrendas a los Condenados",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo boca arriba en el Campo; destruye ese objetivo, y además sáltate tu próxima Draw Phase."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Oleada Fría",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta sólo puede ser activada al inicio de la Main Phase 1. Hasta tu siguiente turno, ningún jugador puede jugar ninguna Carta Mágica o de Trampa."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Olla de la Codicia",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Roba 2 cartas."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Ookazi",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Inflige 800 puntos de daño a tu adversario."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Parar la Defensa",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo en Posición de Defensa en el Campo de tu adversario y cambialo a Posición de Ataque boca arriba."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Peaje",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada jugador debe pagar 500 Life Points para declarar un ataque."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Pergamino de Hechizar",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Atributo. Cambia el Atributo del monstruo equipado al que has seleccionado."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Poción Paralizante",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo que no sea del Tipo Máquina equipado con esta carta no puede atacar."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Poder de Gaia",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de TIERRA en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Poder de Kaishin",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo Aqua. Éste gana 300 ATK/DEF."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Poder del Mago",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "El monstruo equipado gana 500 ATK/DEF por cada Mágica/Trampa que controles."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Polimerización",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos en tu mano o Campo como Material de Fusión."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Polvo de Pluma de Arpía",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye todas las Mágicas y Trampas que controle tu adversario."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Primavera del Renacimiento",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cada vez que un monstruo vuelve del Campo a la mano de su propietario, aumenta tus Life Points en 500 puntos."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Prohibición",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Activa esta carta declarando 1 nombre de carta. Las cartas con ese nombre, y sus efectos, no pueden ser utilizados. Las cartas que ya estaban en el Campo no son afectadas (incluyendo las cartas boca abajo)."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Provisiones de Emergencia",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Manda al Cementerio cualquier cantidad de otras Cartas Mágicas/de Trampa que controles; gana 1000 LP por cada carta mandada al Cementerio de esta forma."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Puerta de Fusión",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Durante la Main Phase: el jugador en turno puede Invocar por Fusión 1 Monstruo de Fusión desde su Deck Extra, desterrando de su mano o Campo los Materiales de Fusión mencionados en él."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Quitar el Limitador",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Hasta el final de este turno, duplica el ATK de todos los monstruos Máquina que controles en este momento. Durante la End Phase de este turno, destruye esos monstruos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Raigeki",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye todos los monstruos que controle tu adversario."
+  },
+  {
+    "Icono": "De ritual",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Receta de Hamburguesa",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta se usa en la Invocación de Ritual de \"Hamburguesa Hambrienta\". También debes ofrecer monstruos cuyo Nivel total sea 6 o más de tu Campo o tu mano como Sacrificio."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Recuperación de Monstruo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 monstruo que controles y que sea tu propiedad; si ese monstruo todavía está en el Campo, barájalo junto con toda tu mano al Deck, y además, después de eso, roba la misma cantidad de cartas que barajaste de tu mano al Deck por este efecto. (No puedes activar esta carta si tienes una carta de tu adversario en tu mano)."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Reflector Mágico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Carta Mágica boca arriba que controles y ponle 1 contador. Si la carta seleccionada fuera a ser destruida, retira el contador en vez de destruirla."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Refuerzo del Ejército",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Añade a tu mano 1 monstruo Guerrero de Nivel 4 o menor en tu Deck."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Retorno de los Condenados",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Descarta 1 Carta de Monstruo de tu mano al Cementerio. Devuelve 1 de los monstruos destruidos y mandados al Cementerio como resultado de una batalla durante este turno a tu mano al final de este turno."
+  },
+  {
+    "Icono": "De ritual",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Ritual de la Ilusión Negra",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Esta carta se usa para la Invocación por Ritual de \"Renunciado\". También debes Sacrificar un monstruo en tu mano o Campo cuyo Nivel sea 1 o más."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Robo Oportunista",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Sólo puedes equipar esta carta a un monstruo que controle tu adversario. Toma el control del monstruo equipado. Durante cada una de las Standby Phases de tu adversario: éste gana 1000 Life Points."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Sacrificio a los Condenados",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Descarta 1 carta, y después selecciona 1 monstruo en el Campo; destrúyelo."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Sastre de lo Voluble",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cambia 1 Carta de Equipo equipada a un monstruo a otro objetivo correcto."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Scapegoat",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Invoca de Modo Especial 4 \"Fichas de Oveja\" (Bestia/TIERRA/Nivel 1/ATK 0/DEF 0) en Posición de Defensa. Éstas no pueden ser Sacrificadas para una Invocación por Sacrificio. No puedes Invocar otros monstruos en el turno en el que activaste esta carta (pero sí puedes Colocar de Modo Normal)."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Seguir al Viento",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Bestia Alada equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Segundo Lanzamiento de Moneda",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cuando se realiza un lanzamiento de monedas, puedes elegir hacerlo de nuevo. (Si el lanzamiento involucró múltiples lanzamientos, vuelves a hacer todos). Sólo puedes usar el efecto de \"Segundo Lanzamiento de Moneda\" una vez por turno."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Sello de los Antiguos",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Paga 1000 Life Points. Tu adversario voltea todas las cartas boca abajo de su Campo y las devuelve a su posición original (los efectos de las cartas boca abajo no se activan)."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Sepulturero Espíritu Maligno",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona hasta 2 Cartas de Monstruo del Cementerio de tu adversario. Esas Cartas de Monstruo son retiradas del juego por el resto del Duelo."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Servidor del Cuidador de Tumbas",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "A menos que tu adversario mande 1 carta de la parte superior de su Deck al Cementerio, no puede declarar un ataque."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Sogen",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Guerrero y Guerrero-Bestia en el Campo ganan 200 ATK/DEF."
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Súper Rejuvenecimiento",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Durante la End Phase del turno en el que esta carta fue activada, roba una cantidad de cartas igual a la cantidad combinada de monstruos Dragón que este turno descartaste o Sacrificaste desde tu mano o tu Campo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Telescopio Antiguo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Mira las 5 cartas superiores en la Deck de tu adversario. Devuelve las cartas al Deck en el mismo orden."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tesoros de Dragón",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de Tipo Dragón equipado con esta carta aumenta su ATK y su DEF en 300 puntos."
+  },
+  {
+    "Icono": "Continua",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tierra Ardiente",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Cuando esta carta es activada: si existen Cartas Mágicas de Campo en el Campo, destrúyelas. Durante la Standby Phase: el jugador en turno recibe 500 de daño"
+  },
+  {
+    "Icono": "De juego rápido",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tifón del Espacio Místico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Selecciona 1 Mágica/Trampa en el Campo; destruye ese objetivo."
+  },
+  {
+    "Icono": "De equipo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tonificación",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Un monstruo de TIERRA equipado con esta carta aumenta su ATK en 400 puntos y disminuye su DEF en 200 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tormenta Fuerte",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye todas las Cartas Mágicas y de Trampa en el Campo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Tornado Gigante",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Devuelve a la mano todas las Cartas Mágicas y de Trampa en el Campo."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Trampa de Eliminación",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Destruye 1 Carta de Trampa boca arriba en el campo."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Umi",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Pez, Serpiente Marina, Trueno y Aqua en el Campo ganan 200 ATK/DEF, y además todos los monstruos Máquina y Piro en el Campo pierden 200 ATK/DEF."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Umiiruka",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de AGUA en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Un Océano Legendario",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "(El nombre de esta carta se trata siempre como \"Umi\").Todos los monstruos de AGUA en el Campo ganan 200 ATK/DEF. Reduce en 1 el Nivel de todos los monstruos de AGUA tanto en la mano como en el Campo de ambos jugadores."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Yami",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Demonio y Lanzador de Conjuros en el Campo ganan 200 ATK/DEF, y además todos los monstruos Hada en el Campo pierden 200 ATK/DEF."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Yermo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Dinosaurio, Zombi y Roca en el Campo ganan 200 ATK/DEF."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Zona de Plasma Místico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de OSCURIDAD en 500 puntos y disminuye su DEF en 400 puntos."
+  },
+  {
+    "Icono": "Normal",
+    "Duracion": "Un uso",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Última Voluntad",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Si un monstruo de tu Campo sea enviado a tu Cementerio este turno, puedes Invocar mediante una Invocación Especial 1 monstruo con un ATK de 1500 puntos o menos de tu Deck, una vez este turno. Luego baraja tu Deck."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Yami",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Demonio y Lanzador de Conjuros en el Campo ganan 200 ATK/DEF, y además todos los monstruos Hada en el Campo pierden 200 ATK/DEF."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Yermo",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Todos los monstruos Dinosaurio, Zombi y Roca en el Campo ganan 200 ATK/DEF."
+  },
+  {
+    "Icono": "De campo",
+    "Duracion": "Continua",
+    "Velocidad": "Spell Speed 1",
+    "Nombre": "Zona de Plasma Místico",
+    "Carta": "cartaMágica",
+    "Atributo": "MÁGICA",
+    "Descripcion": "Aumenta el ATK de todos los monstruos de OSCURIDAD en 500 puntos y disminuye su DEF en 400 puntos."
+  }
+]
