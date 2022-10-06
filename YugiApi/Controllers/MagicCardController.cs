@@ -60,8 +60,14 @@ namespace YugiApi.Controllers
 
         // DELETE api/<MagicCardController>/5
         [HttpDelete("{nombre}")]
-        public void Delete(int id)
+        public List<MagicCard> Delete(string nombre)
         {
+            MagicCard? mcexistente = Magias.FirstOrDefault(x => x.Nombre == nombre);
+            if (mcexistente != null)
+            {
+                Magias.Remove(mcexistente);
+            }
+            return Magias;
         }
     }
 }
