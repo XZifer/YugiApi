@@ -62,6 +62,7 @@ namespace YugiApi.Controllers
         [HttpDelete("{nombre}")]
         public List<MagicCard> Delete(string nombre)
         {
+            Magias = archivos.Deserealizar("CartasMagia.json");
             MagicCard? mcexistente = Magias.FirstOrDefault(x => x.Nombre == nombre);
             if (mcexistente != null)
             {
